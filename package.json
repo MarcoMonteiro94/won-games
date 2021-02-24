@@ -31,13 +31,14 @@
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "styled-components": "5.2.1",
+    "styled-icons": "^10.28.0",
     "styled-media-query": "^2.1.2"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/preset-typescript": "^7.12.16",
-    "@storybook/addon-essentials": "6.1.17",
-    "@storybook/react": "6.1.17",
+    "@storybook/addon-essentials": "6.1.19",
+    "@storybook/react": "6.1.19",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
     "@types/jest": "^26.0.20",
