@@ -18,7 +18,7 @@ export const Default: Story<RibbonProps> = (args) => (
   <div
     style={{
       width: '40rem',
-      height: '25rem',
+      height: '20rem',
       position: 'relative',
       backgroundColor: '#888'
     }}
